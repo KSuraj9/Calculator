@@ -1,0 +1,51 @@
+.btn{
+    height: 50px;
+    width: 70px;
+    border-radius: 100%;
+    border-color: rgb(58, 56, 56);
+    margin: 10px 4px;
+    padding: 0px;
+}
+.num:hover{
+    background-color:rgb(156, 147, 147);
+    transition: 0.3s;
+}
+
+td{
+    background-color: #343030;
+}
+
+.container{
+    width: 340px;
+    height: 415px;
+    margin-top: 60px;
+    border-style: solid;
+    border-color:  #343030;
+    border-radius: 5%;
+    background-color: #343030;
+}
+#I2{
+    margin-top: 15px;
+    height: 50px;
+    width: 280px;
+    padding: 5px;
+    border-radius: 9px;
+}
+.keypad{
+    margin-top: 30px;
+}
+#I1{
+    font-weight: bold;
+}
+body{
+    background-image: url(wall2.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+.tx{
+    font-family:sans-serif;
+    font-weight: bold;
+    font-size: 50px;
+    margin-top: 20px;
+    color: rgb(49, 36, 13);
+}
